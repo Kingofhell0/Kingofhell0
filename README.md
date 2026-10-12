@@ -1,4 +1,4 @@
-```markdown
+
 <!--
     AYUSH BHAJMAN PATRA | GITHUB PROFILE
     Developer • Cybersecurity Learner • Problem Solver
@@ -221,4 +221,4 @@ I'm open to connecting with developers, cybersecurity learners, and technology e
 <sub>Designed with a developer mindset. Built one commit at a time.</sub>
 
 </div>
-```
+
