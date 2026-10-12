@@ -18,9 +18,15 @@
 
 **Building digital experiences. Exploring security. Thinking beyond the code.**
 
-[Portfolio](https://ayushpatra.onrender.com) •
-[GitHub](https://github.com/Kingofhell0) •
-[Email](mailto:Ayushpatra0892@gmail.com)
+<a href="https://github.com/Ayush-1804">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" />
+</a>
+<a href="https://ayush-patra.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88" />
+</a>
+<a href="mailto:Ayushpatra0892@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" />
+</a>
 
 </div>
 
@@ -205,7 +211,7 @@ I'm open to connecting with developers, cybersecurity learners, and technology e
 <a href="https://github.com/Ayush-1804">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" />
 </a>
-<a href="https://ayushpatra.onrender.com">
+<a href="https://ayush-patra.onrender.com/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88" />
 </a>
 <a href="mailto:Ayushpatra0892@gmail.com">
