@@ -19,7 +19,7 @@
 **Building digital experiences. Exploring security. Thinking beyond the code.**
 
 [Portfolio](https://ayushpatra.onrender.com) •
-[GitHub](https://github.com/Ayush-1804) •
+[GitHub](https://github.com/Kingofhell0) •
 [Email](mailto:Ayushpatra0892@gmail.com)
 
 </div>
